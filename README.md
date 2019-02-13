@@ -1,8 +1,3 @@
----
-title: This is my title
-layout: post
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anarinsk/food-stamp-ose/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
